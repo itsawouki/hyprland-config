@@ -2,7 +2,7 @@
 
 A personal [Hyprland](https://hyprland.org/) configuration built with a Lua-based
 config layer instead of raw `.conf` files, paired with a custom
-[Quickshell](https://quickshell.org/) bar/widget system, `pyprland` scratchpads,
+[Quickshell](https://github.com/itsawouki/Aki-shell/) bar/widget system, `pyprland` scratchpads,
 and a set of Python scripts implementing an "infinite desktop" tiling/navigation
 workflow.
 
@@ -10,7 +10,7 @@ workflow.
 > as a base, then reworked into Lua config syntax and extended with custom
 > tooling. See [Credits](#-credits) below.
 
-![screenshot placeholder](./screenshot.png)
+![screenshot placeholder](./Screenshot_10-Sep_18-46-59_22539.png)
 
 ## ✨ Features
 
