@@ -112,7 +112,7 @@ Full binds live in [`Keybinds.lua`](./Keybinds.lua) and
 > the `Aki-Shell` Quickshell config, which aren't included in this repo.
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git ~/.config/hypr
+git clone https://github.com/itsawouki/hyprland-config.git ~/.config/hypr
 ```
 
 Then symlink or copy into place, install the dependencies above, and adjust
