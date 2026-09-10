@@ -1,4 +1,4 @@
-# 🌙 My Hyprland Dotfiles
+# My Hyprland Dotfiles
 
 A personal [Hyprland](https://hyprland.org/) configuration built with a Lua-based
 config layer instead of raw `.conf` files, paired with a custom
